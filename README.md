@@ -6,3 +6,4 @@
 ![扫码体验](https://developers.weixin.qq.com/miniprogram/dev/image/demo.jpg?t=18091218)
 
 ![截图](https://developers.weixin.qq.com/miniprogram/dev/image/demo.png?t=18091218)
+# wein-test
